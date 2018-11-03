@@ -1,2 +1,0 @@
-# testReactApp
-Created with CodeSandbox
