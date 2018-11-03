@@ -1,12 +1,12 @@
 {
-  "name": "new",
+  "name": "test-react-app",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
+    "react": "16.7.0-alpha.0 - next",
+    "react-dom": "16.7.0-alpha.0 - next",
     "react-scripts": "2.0.3"
   },
   "devDependencies": {},
